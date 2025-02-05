@@ -2,3 +2,11 @@ myenv
 assets/*
 after_reranking.txt
 before_reranking.txt
+.env
+initial_ranking_query*
+reranked_query*
+before*
+after*
+reranker1
+reranker2
+data/*
